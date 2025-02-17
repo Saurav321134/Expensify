@@ -85,7 +85,7 @@ The **Expensify** app is a powerful tool designed to help users efficiently trac
 ## 📲 Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repository/ExpenseTrackerAndroid.git
+   git clone https://github.com/Saurav321134/Expensify.git
    ```
 2. Open the project in **Android Studio**.
 3. Sync the Gradle files and ensure all dependencies are installed.
