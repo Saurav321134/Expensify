@@ -31,6 +31,19 @@ The **Expense Tracker Android** app is a powerful tool designed to help users ef
 - Built with **Jetpack Compose**, providing a **modern and responsive UI**.
 - **Minimalistic and clean design** for a distraction-free experience.
 
+## Screenshots
+
+### Splash Screen      --      SignInScreen     --     ListScreen
+![Splash Screen](https://github.com/Saurav321134/Sync_the_body/blob/36d6f60fa8fc6375f855e8d5c8a560940219ea56/splash_ss5.png)
+![SignInScreen](https://github.com/Saurav321134/Sync_the_body/blob/60acbd73de64f6d48460a8240bc9f5da56d2d407/SignInScreen_ss5.png)
+![ChartScreen](https://github.com/Saurav321134/Sync_the_body/blob/48dd62a1f0a6f7de0239e59e17ba297f55a8c3ae/Chart_ss5.png)
+### Add/Delete/Update Screen -- DetailScreen -- InputScreen
+![Add/Update](https://github.com/Saurav321134/Sync_the_body/blob/4838e23b2f8815759bf4c7745687268f74072262/Add_Screen5.png)
+![DetailScreen](https://github.com/Saurav321134/Sync_the_body/blob/3c1eedaf8f7fdb98296af80b1148edf0fc5840e9/Details_ss5.png)
+![InputScreem](https://github.com/Saurav321134/Sync_the_body/blob/55a3246a5afd60e358d8505e66a7e2000814636b/Input_ss5.png)
+### DatePickerScreen
+![DatePicker](https://github.com/Saurav321134/Sync_the_body/blob/55a3246a5afd60e358d8505e66a7e2000814636b/Date_Picker_ss5.png)
+
 ## 🛠 Technologies Used
 
 ### 🖌 Jetpack Compose (UI)
